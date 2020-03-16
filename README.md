@@ -1,7 +1,7 @@
 # MachineLearning-19FW
 > The Notes and Homework of this course
 
-* [Fibonacci Sequence, Hist, Scatter Plot practice](./ML_HW1.ipynb)
+* [Fibonacci Sequence, Hist, Scatter Plot practice](./ML_HW_1.ipynb)
 * [Pandas Operating](./ML_week2.ipynb)
 * [Gradient Descent and Learning Rate](./ML_week3.ipynb)
 * [Sklearn for LinearRegression and PolynomialFeatures Evaluation](.ML_week4.ipynb)
